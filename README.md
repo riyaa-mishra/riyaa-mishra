@@ -1,5 +1,7 @@
 ## Hey there!👋 I'm Riya Mishra
-![Coding animation](https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif" width="420" />
+</p>
 
 # 💫 About Me:
 Hi👋.. I’m a full stack developer who loves building things with React, Node.js, Express, MongoDB, and MySQL—from clean frontends to solid backend systems. I enjoy working with REST APIs, real-time features, and modern JavaScript frameworks.<br><br>I’m also an ML & GenAI enthusiast, experimenting with Python, NLP, prompt engineering, and LLMs to understand how smart systems can make applications more powerful. Always learning, always shipping, and constantly improving 🚀
