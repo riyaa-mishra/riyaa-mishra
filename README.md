@@ -4,7 +4,8 @@
 </p>
 
 # 💫 About Me:
-Hi👋.. I’m a full stack developer who loves building things with React, Node.js, Express, MongoDB, and MySQL—from clean frontends to solid backend systems. I enjoy working with REST APIs, real-time features, and modern JavaScript frameworks.<br><br>I’m also an ML & GenAI enthusiast, experimenting with Python, NLP, prompt engineering, and LLMs to understand how smart systems can make applications more powerful. Always learning, always shipping, and constantly improving 🚀
+Hi👋.. I’m a Data Science and ML enthusiast with a strong foundation in Python, SQL, and Machine Learning, I enjoy transforming raw data into meaningful insights that drive decision-making. My experience spans across data analytics, exploratory data analysis (EDA), and predictive modeling, where I’ve worked with tools like Pandas, NumPy, Scikit-learn, and Power BI.
+I’m also a full stack developer who loves building things with React, Node.js, Express, MongoDB, and MySQL—from clean frontends to solid backend systems. I enjoy working with REST APIs, real-time features, and modern JavaScript frameworks.
 
 
 ## 🌐 Socials:
